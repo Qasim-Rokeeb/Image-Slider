@@ -86,6 +86,13 @@ Follow my journey and explore other projects:
 
 ---
 
+
+## 🧩 Part of
+
+**[30 Days of JavaScript Challenge](#)**
+Follow the journey: [@qasimrokeeb](https://x.com/qasimrokeeb)
+Hashtags: `#30DaysOfJS` `#JavaScript` `#FrontendDev` `Build In Public`
+
 ## 📜 License
 
 This project is open source under the [MIT License](LICENSE).
