@@ -19,7 +19,7 @@ body {
 .sliderBtn {
   position: absolute;
   background-color: rgba(48, 5, 50, 0.5);
-  border: none;
+  border: none; 
   color: white;
   padding: 1rem;
   top: calc(50% - 1rem - 27px);
